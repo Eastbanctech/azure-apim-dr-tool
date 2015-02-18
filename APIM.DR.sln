@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIM.Config", "APIM.DR\APIM.Config\APIM.Config.csproj", "{584DCE8D-7DB8-4596-B6A7-4D64FECCC7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIM.DR", "APIM.DR\APIM.DR\APIM.DR.csproj", "{9CF668AD-5C87-4008-A47A-F582F31A09E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIM.Storage", "APIM.DR\APIM.Storage\APIM.Storage.csproj", "{532B9C42-9B8E-47B1-8678-F6F226E00AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIM.Upload", "APIM.DR\APIM.Upload\APIM.Upload.csproj", "{7D7DD362-23F2-4FEA-BA6E-7218D10D1951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584DCE8D-7DB8-4596-B6A7-4D64FECCC7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584DCE8D-7DB8-4596-B6A7-4D64FECCC7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584DCE8D-7DB8-4596-B6A7-4D64FECCC7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584DCE8D-7DB8-4596-B6A7-4D64FECCC7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF668AD-5C87-4008-A47A-F582F31A09E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF668AD-5C87-4008-A47A-F582F31A09E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF668AD-5C87-4008-A47A-F582F31A09E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF668AD-5C87-4008-A47A-F582F31A09E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532B9C42-9B8E-47B1-8678-F6F226E00AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532B9C42-9B8E-47B1-8678-F6F226E00AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532B9C42-9B8E-47B1-8678-F6F226E00AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532B9C42-9B8E-47B1-8678-F6F226E00AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7DD362-23F2-4FEA-BA6E-7218D10D1951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7DD362-23F2-4FEA-BA6E-7218D10D1951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7DD362-23F2-4FEA-BA6E-7218D10D1951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7DD362-23F2-4FEA-BA6E-7218D10D1951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
