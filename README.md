@@ -24,4 +24,7 @@ IMPORTANT:
  - Restore of a backup is guaranteed only for 7 days since the moment of its creation.
  - Usage data used for creating analytics reports is not included in the backup
 
+NOTE:
+   To get restore result, call the URL returned in the Location header
+
  
